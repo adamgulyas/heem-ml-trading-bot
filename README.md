@@ -43,7 +43,7 @@ The basic MACD trading strategy buys stock when the Fast SMA crosses above the S
 
 In this trial, the SVM and MLP models underperformed the MACD strategy. This can change with a bit of tuning.
 
-![A chart displaying the SVM trading strategy](images/heem-svm-returns.png)
+![A chart displaying the SVM trading strategy](images/heem-mlp-returns.png)
 
 ### Different Training Set Durations
 
