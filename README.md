@@ -42,4 +42,4 @@ When the Fast SMA is changed from 4 to 15, the SVM yields better results. This c
 
 ## Conclusion
 
-Taking risk into account, the MACD remains as the most reliable trading strategy aside from the buy-and-hold strategy.
+It's hard to trust the SVM model alone since changing feature inputs seems to elicit random results. A solution would be to aggregate the results of many trials to test for reliable performance.
