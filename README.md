@@ -63,7 +63,7 @@ A comparison of performance when the size of the training set is changed:
 
 ### Different Fast SMA Window
 
-When the Fast SMA is changed from 4 to 15, the SVM yields better results. This changes from trial-to-trial though, so it is not safe to trust the performance of one single trial.
+When the Fast SMA is changed from 4 days to 15 days, the SVM yields better results. This changes from trial-to-trial though, so it is not safe to trust the performance of one single trial.
 
 ![A chart displaying the SVM trading strategy](images/heem-all-returns-15-100.png)
 
